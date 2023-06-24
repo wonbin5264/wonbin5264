@@ -1,10 +1,14 @@
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=123144&height=150&section=header&text=Jang%20Wonbin%20%7C%20Korean%2007%20Developer&fontColor=ffffff&fontSize=42&animation=twinkling&fontAlignY=28)
 
-![header](https://capsule-render.vercel.app/api?type=waving)
+  ![wonbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonbin5264&show_icons=true&theme=radical)
+  <br /><br />
 
+  ### Stack
 
-<a href="https://www.instagram.com/_wxn.bin" target="_blank"><img src="https://img.shields.io/badge/_wxn.bin-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a><br />
-![wonbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonbin5264&show_icons=true&theme=radical)
-
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/>
 <!--
 **wonbin5264/wonbin5264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
+
+
+</div>
