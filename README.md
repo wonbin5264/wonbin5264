@@ -1,5 +1,5 @@
 # Jang Wonbin | Korean 07 Developer
-<a href="https://www.instagram.com/_wxn.bin" target="_blank"><img src="https://img.shields.io/badge/_wxn.bin-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/_wxn.bin" target="_blank"><img src="https://img.shields.io/badge/_wxn.bin-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a><br />
 ![wonbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonbin5264&show_icons=true&theme=radical)
 
 <!--
